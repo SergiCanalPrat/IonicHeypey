@@ -1,5 +1,7 @@
 {
   "name": "HeyPeyApp",
-  "integrations": {},
+  "integrations": {
+    "capacitor": {}
+  },
   "type": "angular"
 }
